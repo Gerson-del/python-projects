@@ -1,2 +1,2 @@
 # python-projects
-these are some projects i've made
+This is a binary converter that convert from whaveter base to pick to another base
